@@ -1,0 +1,36 @@
+:root{
+    --primary: #4D4D4D;
+}
+
+
+
+.green{
+    background-color: #4CAF4F;
+}
+.greenn:hover{
+    background-color: #4CAF4F;
+    color: white;
+}
+.whitecolor{
+    color: white;
+}
+.whitecolor:hover{
+    color: white;
+}
+.blackcolor{
+    color: var(--primary) !important;
+
+}
+.greencolor{
+    color: #4CAF4F;
+}
+.greencolor:hover{
+    color: #4CAF4F;
+}
+.paddingli{
+    padding-left: 60px;
+}
+.gray{
+    background-color: #F5F7FA;
+;
+}
