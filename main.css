@@ -22,7 +22,7 @@
 
 }
 .greencolor{
-    color: #4CAF4F;
+    color: #4CAF4F !important;
 }
 .greencolor:hover{
     color: #4CAF4F;
@@ -32,5 +32,16 @@
 }
 .gray{
     background-color: #F5F7FA;
+;
+}
+.cgap{
+    gap: 100px;
+    
+}
+.marginr{
+    margin-right:80px ;
+}
+.black{
+    background-color:  #263238 !important;
 ;
 }
