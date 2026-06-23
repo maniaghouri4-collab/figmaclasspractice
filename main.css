@@ -1,9 +1,6 @@
 :root{
     --primary: #4D4D4D;
 }
-
-
-
 .green{
     background-color: #4CAF4F;
 }
@@ -44,4 +41,30 @@
 .black{
     background-color:  #263238 !important;
 ;
+}
+.me{
+    gap: 50px !important;
+}
+.bgray{
+    background-color:  #515B63  !important;
+}
+.bgray::placeholder{
+    color: white !important;
+}
+.wrapp{
+    display: none !important;
+}
+@media screen and (min-width:0px) and (max-width:480px){
+    .wrapp{
+    flex-wrap: wrap !important;
+    }
+    .centerr{
+        align-items: center !important;
+        text-align: center !important;
+    }
+}
+  @media screen and (min-width:481px) and (max-width:768px){}
+
+@media screen and (min-width:769px) and (max-width:1279px){
+ 
 }
