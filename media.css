@@ -1,0 +1,19 @@
+@media screen and (min-width:0px) and (max-width:480px){
+.textcenter{
+    text-align:center  !important;
+    align-items: center !important;
+    width: 100%;
+   
+}
+.width{
+    width: 100% !important;
+   
+}
+.bwid{
+    width: 80% !important;
+}
+}
+ max-width: 100%;
+    margin: 0 auto;
+    padding: 0 px;
+    box-sizing: border-box;
