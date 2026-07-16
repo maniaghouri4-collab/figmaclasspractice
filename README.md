@@ -1,2 +1,0 @@
-# figmaclasspractice
-leraning figma
